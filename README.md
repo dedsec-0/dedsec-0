@@ -10,9 +10,7 @@
     </p>
 </div>
 <br/>
-<p align="center" style='margin: 16px 4px 8px;'>
- 🌱 I’m currently learning <b>C++ & Java for better development of my skills.</b>
-</p>
+
 <p align="center" style='margin: 16px 4px 8px;'>
     <img src="https://komarev.com/ghpvc/?username=dedsec-0&label=Profile%20views&color=0e75b6&style=flat" alt="github profile views" />
 </p>
